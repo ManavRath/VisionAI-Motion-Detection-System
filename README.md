@@ -45,8 +45,7 @@ The Flask server runs in a dedicated thread, allowing the video processing to st
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/visionai-motion-sensor.git
-cd visionai-motion-sensor
+git clone https://github.com/ManavRath/VisionAI-Motion-Detection-System.git
 ```
 
 ### 2. Install Dependencies
@@ -82,3 +81,4 @@ python main.py
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
+
